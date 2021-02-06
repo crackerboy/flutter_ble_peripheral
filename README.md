@@ -24,3 +24,6 @@ Since this plugin is currently being developed, limited functionality will be av
 | Read characteristic     |  |   | Enable the possibility to read a value. |
 | Write characteristic     |  |   | Enable the possibility to write a value. |
 | Notify characteristic    |  |   | Enable the possibility to subscribe and notify a value. |
+
+For more information:
+https://dev.to/juliansteenbakker/advertising-custom-data-over-bluetooth-low-energy-github-graduation-2em4
